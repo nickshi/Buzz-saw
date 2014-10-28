@@ -41,8 +41,10 @@
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_PRO_LICENSE
-'Assets/Code/FollowPath.cs'
-'Assets/Code/NewBehaviourScript.cs'
-'Assets/Code/PathDefinition.cs'
+'Assets/CharacterController2D.cs'
+'Assets/ControllerParameters2D.cs'
+'Assets/ControllerState2D.cs'
+'Assets/FollowPath.cs'
+'Assets/PathDefinition.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

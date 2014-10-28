@@ -13,7 +13,7 @@ TextureImporter:
     21300016: Grass 2
     21300018: Star
     21300020: Upper Cave
-    21300022: Dirt
+    21300022: Platform
     21300024: Lower Cave
     21300026: Tree
     21300028: Tube
@@ -171,15 +171,15 @@ TextureImporter:
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Dirt
+    - name: Platform
       rect:
         serializedVersion: 2
         x: 1663
         y: 1443
         width: 385
         height: 94
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Lower Cave
       rect:

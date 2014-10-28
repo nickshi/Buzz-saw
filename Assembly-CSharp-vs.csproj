@@ -51,6 +51,7 @@
      <Compile Include="Assets\Code\ControllerState2D.cs" />
      <Compile Include="Assets\Code\FollowPath.cs" />
      <Compile Include="Assets\Code\PathDefinition.cs" />
+     <Compile Include="Assets\Code\Player.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

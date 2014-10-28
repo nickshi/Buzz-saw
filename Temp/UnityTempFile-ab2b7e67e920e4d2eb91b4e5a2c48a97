@@ -41,7 +41,8 @@
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_PRO_LICENSE
-'Assets/Code/CharacterController2D.cs'
+'Assets/CharacterController2D.cs'
+'Assets/Code/ControllerParameters2D.cs'
 'Assets/Code/ControllerState2D.cs'
 'Assets/Code/FollowPath.cs'
 'Assets/Code/PathDefinition.cs'
